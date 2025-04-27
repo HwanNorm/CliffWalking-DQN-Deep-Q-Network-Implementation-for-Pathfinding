@@ -117,7 +117,4 @@ jupyter notebook CliffWalking_DQN_Implementation.ipynb
 - **Neural Network Design**: How network architecture affects learning performance
 
 ## Future Improvements
-- Implement Double DQN to reduce overestimation bias
-- Add Prioritized Experience Replay for more efficient learning
-- Compare with policy gradient methods (REINFORCE, Actor-Critic)
 - Experiment with different network architectures
